@@ -1,1 +1,2 @@
-MASTER
+<<<<<<< HEAD
+line 2
